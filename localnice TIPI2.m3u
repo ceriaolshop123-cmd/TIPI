@@ -1,9 +1,9 @@
 
 #EXTM3U
 #EXTINF:-1 group-title="-",ABU-DHABI-TV
-http://103.148.44.38:8000/play/a08b/index.m3u8
+http://103.148.44.38:8000/play/a08b
 #EXTINF:-1 group-title="-",AFN
-http://103.148.44.38:8000/play/a04y/index.m3u8
+http://103.148.44.38:8000/play/a04y
 #EXTINF:-1 group-title="-",AMARIN-TV
 http://103.148.44.38:8000/play/a08p/index.m3u8
 #EXTINF:-1 group-title="-",ANIMAX
@@ -512,3 +512,70 @@ http://103.148.44.38:8000/play/a06n/index.m3u8
 http://103.148.44.38:8000/play/a09u/index.m3u8
 #EXTINF:-1 group-title="-",YEMEN-TV
 http://103.148.44.38:8000/play/a083/index.m3u8
+
+
+
+
+#EXTM3U
+
+#EXTINF:-1,Channel 21
+http://202.150.161.212:5000/live/channel21/playlist.m3u8
+
+#EXTINF:-1,Channel 22
+http://202.150.161.212:5000/live/channel22/playlist.m3u8
+
+#EXTINF:-1,Channel 23
+http://202.150.161.212:5000/live/channel23/playlist.m3u8
+
+#EXTINF:-1,Channel 24
+http://202.150.161.212:5000/live/channel24/playlist.m3u8
+
+#EXTINF:-1,Channel 25
+http://202.150.161.212:5000/live/channel25/playlist.m3u8
+
+#EXTINF:-1,Channel 26
+http://202.150.161.212:5000/live/channel26/playlist.m3u8
+
+#EXTINF:-1,Channel 27
+http://202.150.161.212:5000/live/channel27/playlist.m3u8
+
+#EXTINF:-1,Channel 28
+http://202.150.161.212:5000/live/channel28/playlist.m3u8
+
+#EXTINF:-1,Channel 29
+http://202.150.161.212:5000/live/channel29/playlist.m3u8
+
+#EXTINF:-1,Channel 30
+http://202.150.161.212:5000/live/channel30/playlist.m3u8
+
+#EXTINF:-1,Channel 31
+http://202.150.161.212:5000/live/channel31/playlist.m3u8
+
+#EXTINF:-1,Channel 32
+http://202.150.161.212:5000/live/channel32/playlist.m3u8
+
+#EXTINF:-1,Channel 33
+http://202.150.161.212:5000/live/channel33/playlist.m3u8
+
+#EXTINF:-1,Channel 34
+http://202.150.161.212:5000/live/channel34/playlist.m3u8
+
+#EXTINF:-1,Channel 35
+http://202.150.161.212:5000/live/channel35/playlist.m3u8
+
+#EXTINF:-1,Channel 36
+http://202.150.161.212:5000/live/channel36/playlist.m3u8
+
+#EXTINF:-1,Channel 37
+http://202.150.161.212:5000/live/channel37/playlist.m3u8
+
+#EXTINF:-1,Channel 38
+http://202.150.161.212:5000/live/channel38/playlist.m3u8
+
+#EXTINF:-1,Channel 39
+http://202.150.161.212:5000/live/channel39/playlist.m3u8
+
+#EXTINF:-1,Channel 40
+http://202.150.161.212:5000/live/channel40/playlist.m3u8
+
+
